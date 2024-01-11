@@ -1,0 +1,4 @@
+/home/wbli/z-stack/build/CMakeFiles/z-stack.dir
+/home/wbli/z-stack/build/CMakeFiles/tcp_server.dir
+/home/wbli/z-stack/build/CMakeFiles/edit_cache.dir
+/home/wbli/z-stack/build/CMakeFiles/rebuild_cache.dir

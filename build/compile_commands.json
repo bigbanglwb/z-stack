@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/wbli/z-stack/build",
+  "command": "/usr/bin/cc -I/home/wbli/z-stack/include -I/home/wbli/z-stack/lib -isystem /usr/include/libnl3 -fsanitize=address -include rte_config.h -march=native -o CMakeFiles/z-stack.dir/lib/config.c.o -c /home/wbli/z-stack/lib/config.c",
+  "file": "/home/wbli/z-stack/lib/config.c"
+},
+{
+  "directory": "/home/wbli/z-stack/build",
+  "command": "/usr/bin/cc -I/home/wbli/z-stack/include -I/home/wbli/z-stack/lib -isystem /usr/include/libnl3 -fsanitize=address -include rte_config.h -march=native -o CMakeFiles/z-stack.dir/lib/api.c.o -c /home/wbli/z-stack/lib/api.c",
+  "file": "/home/wbli/z-stack/lib/api.c"
+},
+{
+  "directory": "/home/wbli/z-stack/build",
+  "command": "/usr/bin/cc -I/home/wbli/z-stack/include -I/home/wbli/z-stack/lib -isystem /usr/include/libnl3 -fsanitize=address -include rte_config.h -march=native -o CMakeFiles/z-stack.dir/lib/dpdk.c.o -c /home/wbli/z-stack/lib/dpdk.c",
+  "file": "/home/wbli/z-stack/lib/dpdk.c"
+},
+{
+  "directory": "/home/wbli/z-stack/build",
+  "command": "/usr/bin/cc -I/home/wbli/z-stack/include -I/home/wbli/z-stack/lib -isystem /usr/include/libnl3 -fsanitize=address -include rte_config.h -march=native -o CMakeFiles/z-stack.dir/lib/ip.c.o -c /home/wbli/z-stack/lib/ip.c",
+  "file": "/home/wbli/z-stack/lib/ip.c"
+},
+{
+  "directory": "/home/wbli/z-stack/build",
+  "command": "/usr/bin/cc -I/home/wbli/z-stack/include -I/home/wbli/z-stack/lib -isystem /usr/include/libnl3 -fsanitize=address -include rte_config.h -march=native -o CMakeFiles/z-stack.dir/lib/tcp.c.o -c /home/wbli/z-stack/lib/tcp.c",
+  "file": "/home/wbli/z-stack/lib/tcp.c"
+},
+{
+  "directory": "/home/wbli/z-stack/build",
+  "command": "/usr/bin/cc -I/home/wbli/z-stack/include -I/home/wbli/z-stack/lib -isystem /usr/include/libnl3 -fsanitize=address -include rte_config.h -march=native -o CMakeFiles/z-stack.dir/lib/arp.c.o -c /home/wbli/z-stack/lib/arp.c",
+  "file": "/home/wbli/z-stack/lib/arp.c"
+},
+{
+  "directory": "/home/wbli/z-stack/build",
+  "command": "/usr/bin/cc -I/home/wbli/z-stack/include -I/home/wbli/z-stack/lib -isystem /usr/include/libnl3 -fsanitize=address -include rte_config.h -march=native -o CMakeFiles/tcp_server.dir/examples/tcp_server/main.c.o -c /home/wbli/z-stack/examples/tcp_server/main.c",
+  "file": "/home/wbli/z-stack/examples/tcp_server/main.c"
+},
+{
+  "directory": "/home/wbli/z-stack/build",
+  "command": "/usr/bin/cc -I/home/wbli/z-stack/include -I/home/wbli/z-stack/lib -isystem /usr/include/libnl3 -fsanitize=address -include rte_config.h -march=native -o CMakeFiles/tcp_server.dir/examples/tcp_server/server.c.o -c /home/wbli/z-stack/examples/tcp_server/server.c",
+  "file": "/home/wbli/z-stack/examples/tcp_server/server.c"
+}
+]

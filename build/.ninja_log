@@ -1,0 +1,16 @@
+# ninja log v5
+0	78	1704953399672642823	build.ninja	b5a5a64c2bd71dec
+3	130	1704953399720642600	CMakeFiles/z-stack.dir/lib/config.c.o	fea17ad6e69444fb
+2	346	1704953400028641171	CMakeFiles/tcp_server.dir/examples/tcp_server/server.c.o	4c0824a96613da3d
+2	373	1704953400056641040	CMakeFiles/tcp_server.dir/examples/tcp_server/main.c.o	d2b2c3ba21c92844
+1	517	1704953400200640372	CMakeFiles/z-stack.dir/lib/ip.c.o	d7bfddd167b55c06
+1	560	1704953400244640168	CMakeFiles/z-stack.dir/lib/arp.c.o	633d7d497edb0ba3
+1	882	1704953400560638701	CMakeFiles/z-stack.dir/lib/tcp.c.o	a3a0b03b73b0d873
+3	958	1704953400640638330	CMakeFiles/z-stack.dir/lib/dpdk.c.o	27473adf40c8a10e
+2	1278	1704953400960636845	CMakeFiles/z-stack.dir/lib/api.c.o	f6cf4eecc9817252
+1278	1348	1704953401032636511	libz-stack.a	a37a67f296ddce2a
+1348	1431	1704953401116636121	tcp_server	c755900b06d4b4c5
+4	351	1704964085664374301	CMakeFiles/tcp_server.dir/examples/tcp_server/server.c.o	4c0824a96613da3d
+3	364	1704964085676374245	CMakeFiles/tcp_server.dir/examples/tcp_server/main.c.o	d2b2c3ba21c92844
+2	518	1704964085832373527	CMakeFiles/z-stack.dir/lib/ip.c.o	d7bfddd167b55c06
+2	1179	1704964086492370488	CMakeFiles/z-stack.dir/lib/api.c.o	f6cf4eecc9817252
