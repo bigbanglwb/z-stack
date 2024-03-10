@@ -1,0 +1,2 @@
+/usr/bin/ar qc libz-stack.a CMakeFiles/z-stack.dir/lib/config.c.o CMakeFiles/z-stack.dir/lib/api.c.o CMakeFiles/z-stack.dir/lib/dpdk.c.o CMakeFiles/z-stack.dir/lib/ip.c.o CMakeFiles/z-stack.dir/lib/tcp.c.o CMakeFiles/z-stack.dir/lib/arp.c.o
+/usr/bin/ranlib libz-stack.a

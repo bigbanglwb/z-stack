@@ -5,7 +5,7 @@
 #define ENABLE_SEND		1
 #define ENABLE_ARP		1
 
-struct localhost *lhost = NULL;
+
 
 
 #define MAKE_IPV4_ADDR(a, b, c, d) (a + (b<<8) + (c<<16) + (d<<24))
